@@ -1,0 +1,15 @@
+C:\Projects\SwaggerApiExample\SwaggerApiExample\bin\Debug\netcoreapp2.1\SwaggerApiExample.deps.json
+C:\Projects\SwaggerApiExample\SwaggerApiExample\bin\Debug\netcoreapp2.1\SwaggerApiExample.runtimeconfig.json
+C:\Projects\SwaggerApiExample\SwaggerApiExample\bin\Debug\netcoreapp2.1\SwaggerApiExample.runtimeconfig.dev.json
+C:\Projects\SwaggerApiExample\SwaggerApiExample\bin\Debug\netcoreapp2.1\SwaggerApiExample.dll
+C:\Projects\SwaggerApiExample\SwaggerApiExample\bin\Debug\netcoreapp2.1\SwaggerApiExample.pdb
+C:\Projects\SwaggerApiExample\SwaggerApiExample\obj\Debug\netcoreapp2.1\SwaggerApiExample.csproj.CoreCompileInputs.cache
+C:\Projects\SwaggerApiExample\SwaggerApiExample\obj\Debug\netcoreapp2.1\SwaggerApiExample.RazorAssemblyInfo.cache
+C:\Projects\SwaggerApiExample\SwaggerApiExample\obj\Debug\netcoreapp2.1\SwaggerApiExample.RazorAssemblyInfo.cs
+C:\Projects\SwaggerApiExample\SwaggerApiExample\obj\Debug\netcoreapp2.1\SwaggerApiExample.AssemblyInfoInputs.cache
+C:\Projects\SwaggerApiExample\SwaggerApiExample\obj\Debug\netcoreapp2.1\SwaggerApiExample.AssemblyInfo.cs
+C:\Projects\SwaggerApiExample\SwaggerApiExample\obj\Debug\netcoreapp2.1\SwaggerApiExample.RazorTargetAssemblyInfo.cache
+C:\Projects\SwaggerApiExample\SwaggerApiExample\obj\Debug\netcoreapp2.1\SwaggerApiExample.dll
+C:\Projects\SwaggerApiExample\SwaggerApiExample\obj\Debug\netcoreapp2.1\SwaggerApiExample.pdb
+C:\Projects\SwaggerApiExample\SwaggerApiExample\bin\Debug\netcoreapp2.1\swagger\index.html
+C:\Projects\SwaggerApiExample\SwaggerApiExample\obj\Debug\netcoreapp2.1\SwaggerApiExample.csprojAssemblyReference.cache
